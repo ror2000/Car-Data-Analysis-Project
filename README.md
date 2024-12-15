@@ -60,8 +60,5 @@ To run this project:
 - Python 3.x
 - Libraries: pandas, numpy, matplotlib, seaborn (all of which are pre-installed in Google Colab)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
-- The dataset is sourced from [XYZ](URL) (replace with actual source or remove if not applicable).
+- The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data).
